@@ -122,13 +122,14 @@ footer {
         line-height: 75px;
         margin: 0 0.5rem;
     }
+
+    /* Main Conntent */
+    main {
+        /* Push Main content down when larger header */
+        margin-top: 79px;
+    }
 }
 
-/* Main Conntent */
-main {
-    /* Push Main content down when larger header */
-    margin-top: 79px;
-}
 
 @media screen and (min-width: 992px) {
     #menu a:hover {

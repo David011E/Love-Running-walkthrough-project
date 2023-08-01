@@ -97,6 +97,36 @@ main {
     position: relative;
 }
 
+#reasons {
+    width: 90%;
+    margin: 20px auto;
+}
+
+#reasons h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 280%;
+}
+
+#benefits-physical > div, #benefits-mental > div {
+    line-height: 20px;
+    margin-bottom: 30px;
+}
+
+#benefits p {
+    padding: 0 20px;
+    margin-bottom: 20px;
+}
+
+hr {
+    border-top: 1px solid #3a3a3a;
+    margin: 5px 0;
+}
+
+h3 > i {
+    padding-left: 5px;
+}
+
 #cover-text {
     background-color: rgba(241, 109, 107, .7);
     font-size: 130%;
